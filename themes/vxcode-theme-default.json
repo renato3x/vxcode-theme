@@ -1,5 +1,6 @@
 {
 	"name": "VXCode Theme - Default",
+	"semanticHighlighting": true,
 	"colors": {
 		"activityBar.activeBorder": "#505050",
 		"activityBar.activeFocusBorder": "#505050",
@@ -15,7 +16,7 @@
 		"button.hoverBackground": "#666",
 		"dropdown.background": "#18191A",
 		"dropdown.border": "#333",
-		"editor.background": "#18191A",
+		"editor.background": "#1C1D1E",
 		"editor.foreground": "#ffffffd8",
 		"editor.lineHighlightBackground": "#00000000",
 		"editor.selectionBackground": "#4c566a",
@@ -34,8 +35,9 @@
 		"statusBarItem.remoteForeground": "#ffffff",
 		"statusBar.noFolderBackground": "#18191A",
 		"statusBar.debuggingBackground": "#18191A",
-		"tab.activeBackground": "#18191A",
-		"tab.activeBorder": "#fe7ab2",
+		"tab.activeBackground": "#1C1D1E",
+		"tab.activeBorderTop": "#fe7ab2",
+		"tab.activeBorder": "#1C1D1E",
 		"tab.inactiveBackground": "#18191A",
 		"tab.inactiveForeground": "#b7b7b7",
 		"titleBar.activeBackground": "#18191A",
@@ -46,56 +48,89 @@
 	},
 	"tokenColors": [
 		{
-			"name": "Comments",
 			"scope": [
 				"comment",
 				"punctuation.definition.comment"
 			],
-			"settings": {"foreground": "#7f8c98"}
+			"settings": {
+				"foreground": "#7f8c98"
+			}
 		},
 		{
-			"name": "Strings",
 			"scope": ["string"],
-			"settings": {"foreground": "#fe8170"}
+			"settings": {
+				"foreground": "#fe8170"
+			}
 		},
 		{
-			"name": "Keywords",
 			"scope": [
 				"storage.type",
 				"storage.modifier",
 				"keyword",
 				"variable.language.this"
 			],
-			"settings": {"foreground": "#fe7ab2"}
+			"settings": {
+				"foreground": "#fe7ab2"
+			}
 		},
 		{
-			"name": "Functions",
 			"scope": ["entity.name.function"],
-			"settings": {"foreground": "#FFB454"}
+			"settings": {
+				"foreground": "#FFB454"
+			}
 		},
 		{
-			"name": "Class",
 			"scope": [
-				"entity.name.type.class.ts",
-				"entity.other.inherited-class.ts",
+				"entity.name.type.class",
+				"entity.other.inherited-class",
 				"meta.return.type",
-				"variable.other.object.ts",
-				"variable.other.readwrite.ts",
-				"entity.name.type.ts"
+				"entity.name.type",
+				"support.type.primitive.ts"
 			],
 			"settings": {
 				"foreground": "#82AAFF"
 			}
 		},
 		{
-			"name": "General Variables Color",
 			"scope": [
-				"variable.object.property.ts",
-				"variable.other.readwrite.alias.ts",
-				"variable.parameter.ts"
+				"variable.other.readwrite",
+				"variable.object.property",
+				"meta.object-literal.key",
+				"variable.parameter",
+				"variable.other.property"
 			],
 			"settings": {
 				"foreground": "#4EC9B0"
+			}
+		},
+		{
+			"scope": [
+				"variable.other.constant",
+				"variable.other.enummember",
+				"property.readonly",
+				"constant.language.boolean"
+			],
+			"settings": {
+				"foreground": "#AE81FF"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.separator.key-value"
+			],
+			"settings": {
+				"foreground": "#FE7AB2"
+			}
+		},
+		{
+			"scope": [
+				"constant.numeric",
+				"constant.numeric.integer",
+				"constant.numeric.float",
+				"constant.numeric.decimal"
+			],
+			"settings": {
+				"foreground": "#7DCFFF"
 			}
 		}
 	]
