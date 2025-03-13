@@ -1,0 +1,25 @@
+{
+  "name": "vxcode-theme",
+  "displayName": "VXCode Theme",
+  "description": "XCode based theme for VS Code",
+  "author": {
+    "name": "renato3x",
+    "email": "pereirarenato21@gmail.com"
+  },
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VXCode Theme - Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vxcode-theme-default.json"
+      }
+    ]
+  }
+}
