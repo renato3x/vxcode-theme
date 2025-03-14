@@ -97,7 +97,8 @@
 				"variable.object.property",
 				"meta.object-literal.key",
 				"variable.parameter",
-				"variable.other.property"
+				"variable.other.property",
+				"support.type.property-name.json"
 			],
 			"settings": {
 				"foreground": "#4EC9B0"
