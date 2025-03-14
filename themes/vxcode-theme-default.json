@@ -85,7 +85,7 @@
 				"entity.other.inherited-class",
 				"meta.return.type",
 				"entity.name.type",
-				"support.type.primitive.ts"
+				"support.type.primitive"
 			],
 			"settings": {
 				"foreground": "#82AAFF"
@@ -189,6 +189,33 @@
 			],
 			"settings": {
 				"foreground": "#FFB454"
+			}
+		},
+		{
+			"scope": [
+				"constant.language"
+			],
+			"settings": {
+				"foreground": "#AE81FF"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.heading.markdown",
+				"entity.name.section.markdown",
+				"punctuation.definition.list.begin.markdown",
+				"markup.bold.markdown"
+			],
+			"settings": {
+				"foreground": "#AE81FF"
+			}
+		},
+		{
+			"scope": [
+				"markup.inline.raw.string.markdown"
+			],
+			"settings": {
+				"foreground": "#fe8170"
 			}
 		}
 	]
