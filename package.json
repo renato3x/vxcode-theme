@@ -1,12 +1,17 @@
 {
   "name": "vxcode-theme",
+  "version": "1.0.0",
   "displayName": "VXCode Theme",
+  "icon": "images/vxcode-theme-icon.png",
   "description": "A VSCode theme based on XCode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renato3x/vxcode-theme"
+  },
   "author": {
     "name": "renato3x",
     "email": "pereirarenato21@gmail.com"
   },
-  "version": "1.0.0",
   "engines": {
     "vscode": "^1.98.0"
   },
