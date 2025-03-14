@@ -1,12 +1,13 @@
 {
-  "name": "vxcode-theme",
+  "name": "vxcode-theme-by-renato3x",
   "version": "1.0.0",
-  "displayName": "VXCode Theme",
-  "icon": "images/vxcode-theme-icon.png",
+  "displayName": "VXCode Theme Modern",
+  "icon": "images/vxcode-theme-by-renato3x-icon.png",
   "description": "A VSCode theme based on XCode",
+  "publisher": "renato3x",
   "repository": {
     "type": "git",
-    "url": "https://github.com/renato3x/vxcode-theme"
+    "url": "https://github.com/renato3x/vxcode-theme-by-renato3x"
   },
   "author": {
     "name": "renato3x",
@@ -23,7 +24,7 @@
       {
         "label": "VXCode Theme - Default",
         "uiTheme": "vs-dark",
-        "path": "./themes/vxcode-theme-default.json"
+        "path": "./themes/vxcode-theme-by-renato3x-default.json"
       }
     ]
   }
