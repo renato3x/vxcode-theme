@@ -1,7 +1,7 @@
 {
   "name": "vxcode-theme",
   "displayName": "VXCode Theme",
-  "description": "XCode based theme for VS Code",
+  "description": "A VSCode theme based on XCode",
   "author": {
     "name": "renato3x",
     "email": "pereirarenato21@gmail.com"
