@@ -226,6 +226,85 @@
 			"settings": {
 				"foreground": "#64adc9"
 			}
+		},
+		{
+			"name": "Markdown Headings",
+			"scope": [
+				"markup.heading.markdown"                                 // Markdown headings
+			],
+			"settings": {
+				"foreground": "#e84f8f",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Markdown bold",
+			"scope": [
+				"markup.bold.markdown"                                    // Markdown bold text
+			],
+			"settings": {
+				"foreground": "#e84f8f",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Markdown Italic",
+			"scope": [
+				"markup.italic.markdown"                                  // Markdown italic text
+			],
+			"settings": {
+				"foreground": "#ffffff",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Markdown Quote",
+			"scope": [
+				"punctuation.definition.quote"                            // Markdown blockquotes
+			],
+			"settings": {
+				"foreground": "#e84f8f",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Markdown List",
+			"scope": [
+				"punctuation.definition.list"                             // Markdown list items
+			],
+			"settings": {
+				"foreground": "#9777d9",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Markdown Raw",
+			"scope": [
+				"markup.inline.raw"                                       // Markdown inline raw text
+			],
+			"settings": {
+				"foreground": "#fe8170"
+			}
+		},
+		{
+			"name": "Markdown URLs",
+			"scope": [
+				"markup.underline.link"                                  // Markdown links
+			],
+			"settings": {
+				"foreground": "#9777d9",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Markdown Scape character",
+			"scope": [
+				"constant.character.escape.markdown"                      // Markdown escape characters
+			],
+			"settings": {
+				"foreground": "#fe8170",
+				"fontStyle": "italic"
+			}
 		}
 	]
 }
