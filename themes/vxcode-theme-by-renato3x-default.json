@@ -94,7 +94,11 @@
 				"entity.other.inherited-class",      // Inherited class names
 				"meta.return.type",                  // Return types in function signatures
 				"entity.name.type",                  // General type names
-				"support.type.primitive"             // Primitive types (e.g., int, string)
+				"support.type.primitive",            // Primitive types (e.g., int, string)
+				"storage.type.string.go",            // String types in Go
+				"storage.type.numeric.go",           // Numeric types in Go
+				"storage.type.boolean.go",           // Boolean types in Go
+				"support.class.component"            // Component class support
 			],
 			"settings": {
 				"foreground": "#8ecce1"
@@ -108,7 +112,8 @@
 				"meta.object-literal.key",           // Keys in object literals
 				"variable.parameter",                // Function parameters
 				"variable.other.property",           // Other properties
-				"support.type.property-name.json"    // Property names in JSON
+				"support.type.property-name.json",   // Property names in JSON
+				"variable.other.assignment"          // General variables
 			],
 			"settings": {
 				"foreground": "#9777d9"
@@ -155,6 +160,24 @@
 			],
 			"settings": {
 				"foreground": "#ffeb7c"
+			}
+		},
+		{
+			"name": "HTML Tags",
+			"scope": [
+				"entity.name.tag"                    // HTML tag names
+			],
+			"settings": {
+				"foreground": "#64adc9"
+			}
+		},
+		{
+			"name": "HTML attributes",
+			"scope": [
+				"entity.other.attribute-name"        // HTML attribute names
+			],
+			"settings": {
+				"foreground": "#9777d9"
 			}
 		}
 	]
