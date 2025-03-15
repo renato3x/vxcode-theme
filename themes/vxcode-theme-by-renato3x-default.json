@@ -5,17 +5,17 @@
 		"activityBar.activeBorder": "#505050",
 		"activityBar.activeFocusBorder": "#505050",
 		"activityBar.background": "#18191A",
-		"activityBar.border": "#333",
+		"activityBar.border": "#333333",
 		"activityBar.foreground": "#ffffff",
 		"activityBarBadge.background": "#199aff",
 		"activityBarBadge.foreground": "#ffffff",
 		"badge.background": "#199aff",
 		"badge.foreground": "#ffffff",
-		"button.background": "#555",
+		"button.background": "#555555",
 		"button.foreground": "#fcfbfc",
-		"button.hoverBackground": "#666",
+		"button.hoverBackground": "#666666",
 		"dropdown.background": "#18191A",
-		"dropdown.border": "#333",
+		"dropdown.border": "#333333",
 		"editor.background": "#1C1D1E",
 		"editor.foreground": "#ffffffd8",
 		"editor.lineHighlightBackground": "#00000000",
@@ -48,6 +48,7 @@
 	},
 	"tokenColors": [
 		{
+			"name": "Comment",
 			"scope": [
 				"comment",
 				"punctuation.definition.comment"
@@ -57,12 +58,14 @@
 			}
 		},
 		{
+			"name": "String",
 			"scope": ["string"],
 			"settings": {
 				"foreground": "#fe8170"
 			}
 		},
 		{
+			"name": "Keyword and Storage",
 			"scope": [
 				"storage.type",
 				"storage.modifier",
@@ -74,12 +77,14 @@
 			}
 		},
 		{
+			"name": "Function Name",
 			"scope": ["entity.name.function"],
 			"settings": {
-				"foreground": "#FFB454"
+				"foreground": "#ffb454"
 			}
 		},
 		{
+			"name": "Class and Type",
 			"scope": [
 				"entity.name.type.class",
 				"entity.other.inherited-class",
@@ -88,10 +93,11 @@
 				"support.type.primitive"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#82aaff"
 			}
 		},
 		{
+			"name": "Variables and Properties",
 			"scope": [
 				"variable.other.readwrite",
 				"variable.object.property",
@@ -101,10 +107,11 @@
 				"support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#4ec9b0"
 			}
 		},
 		{
+			"name": "Constants and Booleans",
 			"scope": [
 				"variable.other.constant",
 				"variable.other.enummember",
@@ -112,18 +119,20 @@
 				"constant.language.boolean"
 			],
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
+			"name": "Key-Value Separator",
 			"scope": [
 				"punctuation.separator.key-value"
 			],
 			"settings": {
-				"foreground": "#FE7AB2"
+				"foreground": "#fe7ab2"
 			}
 		},
 		{
+			"name": "Numeric Constants",
 			"scope": [
 				"constant.numeric",
 				"constant.numeric.integer",
@@ -131,34 +140,38 @@
 				"constant.numeric.decimal"
 			],
 			"settings": {
-				"foreground": "#7DCFFF"
+				"foreground": "#7dcfff"
 			}
 		},
 		{
+			"name": "HTML Tags",
 			"scope": [
 				"entity.name.tag"
 			],
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
+			"name": "HTML Attributes",
 			"scope": [
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#4ec9b0"
 			}
 		},
 		{
+			"name": "Tag Punctuation",
 			"scope": [
 				"punctuation.definition.tag"
 			],
 			"settings": {
-				"foreground": "#FE7AB2"
+				"foreground": "#fe7ab2"
 			}
 		},
 		{
+			"name": "CSS Variables",
 			"scope": [
 				"variable.css",
 				"variable.argument.css",
@@ -168,10 +181,11 @@
 				"variable.parameter.keyframe-list.css"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#82aaff"
 			}
 		},
 		{
+			"name": "CSS Constants",
 			"scope": [
 				"support.constant.font-name.css",
 				"support.constant.property-value.misc.css",
@@ -186,22 +200,25 @@
 			}
 		},
 		{
+			"name": "CSS Functions",
 			"scope": [
 				"support.function.misc.css"
 			],
 			"settings": {
-				"foreground": "#FFB454"
+				"foreground": "#ffb454"
 			}
 		},
 		{
+			"name": "Language Constants",
 			"scope": [
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
+			"name": "Markdown Headings",
 			"scope": [
 				"punctuation.definition.heading.markdown",
 				"entity.name.section.markdown",
@@ -209,10 +226,11 @@
 				"markup.bold.markdown"
 			],
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#ae81ff"
 			}
 		},
 		{
+			"name": "Markdown Inline Code",
 			"scope": [
 				"markup.inline.raw.string.markdown"
 			],
