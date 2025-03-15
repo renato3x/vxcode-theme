@@ -179,6 +179,53 @@
 			"settings": {
 				"foreground": "#9777d9"
 			}
+		},
+		{
+			"name": "CSS Variables",
+			"scope": [
+				"variable.css",
+				"variable.argument.css",
+				"support.type.property-name.css",
+				"variable.prop.css",
+				"support.type.property-name.media.css",
+				"variable.parameter.keyframe-list.css"
+			],
+			"settings": {
+				"foreground": "#9777d9"
+			}
+		},
+		{
+			"name": "CSS Constants",
+			"scope": [
+				"support.constant.font-name.css",
+				"support.constant.property-value.misc.css",
+				"support.constant.property-value.css",
+				"support.constant.media.css",
+				"support.constant.color.w3c-standard-color-name.css",
+				"support.constant.color.w3c-extended-color-name.css",
+				"constant.other.color"
+			],
+			"settings": {
+				"foreground": "#fe8170"
+			}
+		},
+		{
+			"name": "CSS Functions",
+			"scope": [
+				"support.function.misc.css"
+			],
+			"settings": {
+				"foreground": "#cbbcf1"
+			}
+		},
+		{
+			"name": "Language Constants",
+			"scope": [
+				"constant.language"
+			],
+			"settings": {
+				"foreground": "#64adc9"
+			}
 		}
 	]
 }
