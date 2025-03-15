@@ -2,56 +2,56 @@
 	"name": "VXCode Theme - Default",
 	"semanticHighlighting": true,
 	"colors": {
-		"activityBar.activeBorder": "#e84f8f",             // Active border of the activity bar
-		"activityBar.activeFocusBorder": "#e84f8f",        // Focus border of the active activity bar
-		"activityBar.background": "#18191a",               // Background of the activity bar
-		"activityBar.border": "#333333",                   // Border of the activity bar
-		"activityBar.foreground": "#ffffff",               // Text color in the activity bar
-		"activityBarBadge.background": "#e84f8f",          // Background of badges in the activity bar
-		"activityBarBadge.foreground": "#ffffff",          // Text color of badges in the activity bar
-		"badge.background": "#e84f8f",                     // Background of badges
-		"badge.foreground": "#ffffff",                     // Text color of badges
-		"button.background": "#555555",                    // Background of buttons
-		"button.foreground": "#fcfbfc",                    // Text color of buttons
-		"button.hoverBackground": "#666666",               // Background of buttons when hovered
-		"dropdown.background": "#18191a",                  // Background of dropdown menus
-		"dropdown.border": "#333333",                      // Border of dropdown menus
-		"editor.background": "#1c1d1e",                    // Background of the editor
-		"editor.foreground": "#ffffffd8",                  // Text color in the editor
-		"editor.lineHighlightBackground": "#00000000",     // Background of the current line highlight in the editor
-		"editor.selectionBackground": "#4c566a",           // Background of selected text in the editor
-		"editorGroup.border": "#404040",                   // Border between editor groups
-		"editorGroupHeader.tabsBackground": "#18191a",     // Background of the editor tabs area
-		"editorGroupHeader.tabsBorder": "#404040",         // Border of the editor tabs area
-		"sideBar.background": "#18191a",                   // Background of the sidebar
-		"sideBar.border": "#404040",                       // Border of the sidebar
-		"sideBar.foreground": "#eaf0f6",                   // Text color in the sidebar
-		"sideBarSectionHeader.background": "#18191a",      // Background of sidebar section headers
-		"sideBarSectionHeader.border": "#404040",          // Border of sidebar section headers
-		"statusBar.background": "#18191a",                 // Background of the status bar
-		"statusBar.border": "#404040",                     // Border of the status bar
-		"statusBar.foreground": "#ffffffd8",               // Text color in the status bar
-		"statusBarItem.remoteBackground": "#e84f8f",       // Background of remote items in the status bar
-		"statusBarItem.remoteForeground": "#ffffff",       // Text color of remote items in the status bar
-		"statusBar.noFolderBackground": "#18191a",         // Background of the status bar when no folder is open
-		"statusBar.debuggingBackground": "#18191a",        // Background of the status bar during debugging
-		"tab.activeBackground": "#1c1d1e",                 // Background of the active tab
-		"tab.activeBorderTop": "#e84f8f",                  // Top border of the active tab
-		"tab.activeBorder": "#1c1d1e",                     // Border of the active tab
-		"tab.inactiveBackground": "#18191a",               // Background of inactive tabs
-		"tab.inactiveForeground": "#b7b7b7",               // Text color of inactive tabs
-		"titleBar.activeBackground": "#18191a",            // Background of the active title bar
-		"titleBar.activeForeground": "#b8b7bc",            // Text color in the active title bar
-		"titleBar.border": "#404040",                      // Border of the title bar
-		"panel.background": "#18191a",                     // Background of the panel
-		"panel.border": "#404040"                          // Border of the panel
+		"activityBar.activeBorder": "#e84f8f",                           // Active border of the activity bar
+		"activityBar.activeFocusBorder": "#e84f8f",                      // Focus border of the active activity bar
+		"activityBar.background": "#18191a",                             // Background of the activity bar
+		"activityBar.border": "#333333",                                 // Border of the activity bar
+		"activityBar.foreground": "#ffffff",                             // Text color in the activity bar
+		"activityBarBadge.background": "#e84f8f",                        // Background of badges in the activity bar
+		"activityBarBadge.foreground": "#ffffff",                        // Text color of badges in the activity bar
+		"badge.background": "#e84f8f",                                   // Background of badges
+		"badge.foreground": "#ffffff",                                   // Text color of badges
+		"button.background": "#555555",                                  // Background of buttons
+		"button.foreground": "#fcfbfc",                                  // Text color of buttons
+		"button.hoverBackground": "#666666",                             // Background of buttons when hovered
+		"dropdown.background": "#18191a",                                // Background of dropdown menus
+		"dropdown.border": "#333333",                                    // Border of dropdown menus
+		"editor.background": "#1c1d1e",                                  // Background of the editor
+		"editor.foreground": "#ffffffd8",                                // Text color in the editor
+		"editor.lineHighlightBackground": "#00000000",                   // Background of the current line highlight in the editor
+		"editor.selectionBackground": "#4c566a",                         // Background of selected text in the editor
+		"editorGroup.border": "#404040",                                 // Border between editor groups
+		"editorGroupHeader.tabsBackground": "#18191a",                   // Background of the editor tabs area
+		"editorGroupHeader.tabsBorder": "#404040",                       // Border of the editor tabs area
+		"sideBar.background": "#18191a",                                 // Background of the sidebar
+		"sideBar.border": "#404040",                                     // Border of the sidebar
+		"sideBar.foreground": "#eaf0f6",                                 // Text color in the sidebar
+		"sideBarSectionHeader.background": "#18191a",                    // Background of sidebar section headers
+		"sideBarSectionHeader.border": "#404040",                        // Border of sidebar section headers
+		"statusBar.background": "#18191a",                               // Background of the status bar
+		"statusBar.border": "#404040",                                   // Border of the status bar
+		"statusBar.foreground": "#ffffffd8",                             // Text color in the status bar
+		"statusBarItem.remoteBackground": "#e84f8f",                     // Background of remote items in the status bar
+		"statusBarItem.remoteForeground": "#ffffff",                     // Text color of remote items in the status bar
+		"statusBar.noFolderBackground": "#18191a",                       // Background of the status bar when no folder is open
+		"statusBar.debuggingBackground": "#18191a",                      // Background of the status bar during debugging
+		"tab.activeBackground": "#1c1d1e",                               // Background of the active tab
+		"tab.activeBorderTop": "#e84f8f",                                // Top border of the active tab
+		"tab.activeBorder": "#1c1d1e",                                   // Border of the active tab
+		"tab.inactiveBackground": "#18191a",                             // Background of inactive tabs
+		"tab.inactiveForeground": "#b7b7b7",                             // Text color of inactive tabs
+		"titleBar.activeBackground": "#18191a",                          // Background of the active title bar
+		"titleBar.activeForeground": "#b8b7bc",                          // Text color in the active title bar
+		"titleBar.border": "#404040",                                    // Border of the title bar
+		"panel.background": "#18191a",                                   // Background of the panel
+		"panel.border": "#404040"                                        // Border of the panel
 	},
 	"tokenColors": [
 		{
 			"name": "Comments",
 			"scope": [
-				"comment",                          // General comments
-				"punctuation.definition.comment"    // Comment punctuation
+				"comment",                                                  // General comments
+				"punctuation.definition.comment"                            // Comment punctuation
 			],
 			"settings": {
 				"foreground": "#808080"
@@ -60,7 +60,7 @@
 		{
 			"name": "Strings",
 			"scope": [
-				"string"                             // String literals
+				"string"                                                   // String literals
 			],
 			"settings": {
 				"foreground": "#fe8170"
@@ -69,10 +69,10 @@
 		{
 			"name": "Keyword and Storage",
 			"scope": [
-				"storage.type",                      // Data type keywords (e.g., int, float)
-				"storage.modifier",                  // Modifiers (e.g., public, private)
-				"keyword",                           // General keywords
-				"variable.language.this"             // 'this' keyword in languages like Java or JavaScript
+				"storage.type",                                            // Data type keywords (e.g., int, float)
+				"storage.modifier",                                        // Modifiers (e.g., public, private)
+				"keyword",                                                 // General keywords
+				"variable.language.this"                                   // 'this' keyword in languages like Java or JavaScript
 			],
 			"settings": {
 				"foreground": "#e84f8f"
@@ -81,7 +81,7 @@
 		{
 			"name": "Function Name",
 			"scope": [
-				"entity.name.function"               // Function names
+				"entity.name.function"                                     // Function names
 			],
 			"settings": {
 				"foreground": "#cbbcf1"
@@ -90,15 +90,15 @@
 		{
 			"name": "Classes and Types",
 			"scope": [
-				"entity.name.type.class",            // Class names
-				"entity.other.inherited-class",      // Inherited class names
-				"meta.return.type",                  // Return types in function signatures
-				"entity.name.type",                  // General type names
-				"support.type.primitive",            // Primitive types (e.g., int, string)
-				"storage.type.string.go",            // String types in Go
-				"storage.type.numeric.go",           // Numeric types in Go
-				"storage.type.boolean.go",           // Boolean types in Go
-				"support.class.component"            // Component class support
+				"entity.name.type.class",                                  // Class names
+				"entity.other.inherited-class",                            // Inherited class names
+				"meta.return.type",                                        // Return types in function signatures
+				"entity.name.type",                                        // General type names
+				"support.type.primitive",                                  // Primitive types (e.g., int, string)
+				"storage.type.string.go",                                  // String types in Go
+				"storage.type.numeric.go",                                 // Numeric types in Go
+				"storage.type.boolean.go",                                 // Boolean types in Go
+				"support.class.component"                                  // Component class support
 			],
 			"settings": {
 				"foreground": "#8ecce1"
@@ -107,13 +107,13 @@
 		{
 			"name": "Variables and Properties",
 			"scope": [
-				"variable.other.readwrite",          // General read/write variables
-				"variable.object.property",          // Object properties
-				"meta.object-literal.key",           // Keys in object literals
-				"variable.parameter",                // Function parameters
-				"variable.other.property",           // Other properties
-				"support.type.property-name.json",   // Property names in JSON
-				"variable.other.assignment"          // General variables
+				"variable.other.readwrite",                                // General read/write variables
+				"variable.object.property",                                // Object properties
+				"meta.object-literal.key",                                 // Keys in object literals
+				"variable.parameter",                                      // Function parameters
+				"variable.other.property",                                 // Other properties
+				"support.type.property-name.json",                         // Property names in JSON
+				"variable.other.assignment"                                // General variables
 			],
 			"settings": {
 				"foreground": "#9777d9"
@@ -122,7 +122,7 @@
 		{
 			"name": "Imports",
 			"scope": [
-				"variable.other.readwrite.alias"     // Aliases in import statements
+				"variable.other.readwrite.alias"                           // Aliases in import statements
 			],
 			"settings": {
 				"foreground": "#ffffff"
@@ -131,11 +131,11 @@
 		{
 			"name": "Constants and Booleans",
 			"scope": [
-				"variable.other.constant",           // Constant variables
-				"variable.other.enummember",         // Enum members
-				"property.readonly",                 // Read-only properties
-				"constant.language.boolean",         // Boolean constants (e.g., true, false)
-				"constant.language.json"             // Constants in JSON
+				"variable.other.constant",                                 // Constant variables
+				"variable.other.enummember",                               // Enum members
+				"property.readonly",                                       // Read-only properties
+				"constant.language.boolean",                               // Boolean constants (e.g., true, false)
+				"constant.language.json"                                   // Constants in JSON
 			],
 			"settings": {
 				"foreground": "#64adc9"
@@ -144,7 +144,7 @@
 		{
 			"name": "Key-Value Separator",
 			"scope": [
-				"punctuation.separator.key-value"    // Key-value separators (e.g., ':' in JSON)
+				"punctuation.separator.key-value"                          // Key-value separators (e.g., ':' in JSON)
 			],
 			"settings": {
 				"foreground": "#e84f8f"
@@ -153,10 +153,10 @@
 		{
 			"name": "Numeric Constants",
 			"scope": [
-				"constant.numeric",                  // General numeric constants
-				"constant.numeric.integer",          // Integer constants
-				"constant.numeric.float",            // Floating-point constants
-				"constant.numeric.decimal"           // Decimal constants
+				"constant.numeric",                                        // General numeric constants
+				"constant.numeric.integer",                                // Integer constants
+				"constant.numeric.float",                                  // Floating-point constants
+				"constant.numeric.decimal"                                 // Decimal constants
 			],
 			"settings": {
 				"foreground": "#ffeb7c"
@@ -165,7 +165,7 @@
 		{
 			"name": "HTML Tags",
 			"scope": [
-				"entity.name.tag"                    // HTML tag names
+				"entity.name.tag"                                          // HTML tag names
 			],
 			"settings": {
 				"foreground": "#64adc9"
@@ -174,7 +174,7 @@
 		{
 			"name": "HTML attributes",
 			"scope": [
-				"entity.other.attribute-name"        // HTML attribute names
+				"entity.other.attribute-name"                              // HTML attribute names
 			],
 			"settings": {
 				"foreground": "#9777d9"
@@ -183,12 +183,12 @@
 		{
 			"name": "CSS Variables",
 			"scope": [
-				"variable.css",
-				"variable.argument.css",
-				"support.type.property-name.css",
-				"variable.prop.css",
-				"support.type.property-name.media.css",
-				"variable.parameter.keyframe-list.css"
+				"variable.css",                                           // CSS variables
+				"variable.argument.css",                                  // CSS function arguments
+				"support.type.property-name.css",                         // CSS property names
+				"variable.prop.css",                                      // CSS properties
+				"support.type.property-name.media.css",                   // Media query property names
+				"variable.parameter.keyframe-list.css"                    // Keyframe list parameters
 			],
 			"settings": {
 				"foreground": "#9777d9"
@@ -197,13 +197,13 @@
 		{
 			"name": "CSS Constants",
 			"scope": [
-				"support.constant.font-name.css",
-				"support.constant.property-value.misc.css",
-				"support.constant.property-value.css",
-				"support.constant.media.css",
-				"support.constant.color.w3c-standard-color-name.css",
-				"support.constant.color.w3c-extended-color-name.css",
-				"constant.other.color"
+				"support.constant.font-name.css",                         // Font names in CSS
+				"support.constant.property-value.misc.css",               // Miscellaneous property values
+				"support.constant.property-value.css",                    // General property values
+				"support.constant.media.css",                             // Media query constants
+				"support.constant.color.w3c-standard-color-name.css",     // Standard color names
+				"support.constant.color.w3c-extended-color-name.css",     // Extended color names
+				"constant.other.color"                                    // Other color constants
 			],
 			"settings": {
 				"foreground": "#fe8170"
@@ -212,7 +212,7 @@
 		{
 			"name": "CSS Functions",
 			"scope": [
-				"support.function.misc.css"
+				"support.function.misc.css"                               // Miscellaneous CSS functions
 			],
 			"settings": {
 				"foreground": "#cbbcf1"
@@ -221,7 +221,7 @@
 		{
 			"name": "Language Constants",
 			"scope": [
-				"constant.language"
+				"constant.language"                                       // General language constants
 			],
 			"settings": {
 				"foreground": "#64adc9"
