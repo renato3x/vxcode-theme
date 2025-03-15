@@ -4,6 +4,16 @@ All notable changes to the "vxcode-theme-by-renato3x" extension will be document
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.0.0] - 2025-03-15
+
+### Added
+
+- Added full support for Markdown files
+
+### Changed
+
+- Default theme was completely changed, making it more similar to the real XCode Theme
+
 ## [1.0.1] - 2025-03-14
 
 ### Fixed

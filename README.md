@@ -4,6 +4,8 @@ A modern and elegant dark theme for Visual Studio Code, inspired by the aestheti
 
 ## Screenshots
 
+### Default Theme
+
 ![VXCode Theme - Default: Demo](.github/images/themes/default_theme_demo.png)
 
 ## Installation
