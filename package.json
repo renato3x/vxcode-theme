@@ -2,7 +2,7 @@
   "name": "vxcode-theme-by-renato3x",
   "version": "2.0.0",
   "displayName": "VXCode Theme Modern",
-  "icon": "images/vxcode-theme-by-renato3x-icon.png",
+  "icon": "images/extension-icon.png",
   "description": "A VSCode theme based on XCode",
   "publisher": "renato3x",
   "repository": {
@@ -24,7 +24,7 @@
       {
         "label": "VXCode Theme - Default",
         "uiTheme": "vs-dark",
-        "path": "./themes/vxcode-theme-by-renato3x-default.json"
+        "path": "./themes/default-theme.json"
       }
     ]
   }
