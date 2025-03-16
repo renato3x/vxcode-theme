@@ -4,6 +4,14 @@ All notable changes to the "vxcode-theme-by-renato3x" extension will be document
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.1.0] - 2025-03-16
+
+### Added
+
+- Improved support for Golang
+- Enhanced syntax highlighting for variables declared in Go
+- Added syntax highlighting for string placeholders in Go
+
 ## [2.0.0] - 2025-03-15
 
 ### Added

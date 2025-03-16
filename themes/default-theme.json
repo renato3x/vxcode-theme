@@ -290,7 +290,7 @@
 		{
 			"name": "Markdown URLs",
 			"scope": [
-				"markup.underline.link"                                  // Markdown links
+				"markup.underline.link"                                   // Markdown links
 			],
 			"settings": {
 				"foreground": "#9777d9",
