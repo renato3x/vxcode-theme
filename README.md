@@ -18,7 +18,7 @@ A modern and elegant dark theme for Visual Studio Code, inspired by the aestheti
 5. Select the theme by navigating to **File > Preferences > Color Theme** and choosing **VXCode Theme - Default**.
 
 ### Manual Installation
-1. Download the latest release from [GitHub](https://github.com/renato3x/vxcode-theme-by-renato3x/tags).
+1. Download the latest tag from [GitHub](https://github.com/renato3x/vxcode-theme-by-renato3x/releases).
 2. Open **Visual Studio Code**.
 3. Go to **Extensions** and click **Install from VSIX...**.
 4. Select the downloaded `.vsix` file.
