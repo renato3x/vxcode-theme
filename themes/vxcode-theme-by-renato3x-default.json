@@ -113,7 +113,8 @@
 				"variable.parameter",                                      // Function parameters
 				"variable.other.property",                                 // Other properties
 				"support.type.property-name.json",                         // Property names in JSON
-				"variable.other.assignment"                                // General variables
+				"variable.other.assignment",                               // General variables
+				"variable.other.go"                                        // Any other go variable
 			],
 			"settings": {
 				"foreground": "#9777d9"
@@ -304,6 +305,15 @@
 			"settings": {
 				"foreground": "#fe8170",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Go String placeholder",
+			"scope": [
+				"constant.other.placeholder.go"
+			],
+			"settings":{
+				"foreground": "#9777d9"
 			}
 		}
 	]
