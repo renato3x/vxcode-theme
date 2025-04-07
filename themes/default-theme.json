@@ -315,6 +315,15 @@
 			"settings":{
 				"foreground": "#9777d9"
 			}
+		},
+		{
+			"name": "Scape Character",
+			"scope": [
+				"constant.character.escape"
+			],
+			"settings":{
+				"foreground": "#e84f8f"
+			}
 		}
 	]
 }
