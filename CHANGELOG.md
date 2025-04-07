@@ -4,7 +4,7 @@ All notable changes to the "vxcode-theme-by-renato3x" extension will be document
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [2.1.1] - 2025-04-06
+## [2.1.2] - 2025-04-06
 
 ### Changed
 
