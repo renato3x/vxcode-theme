@@ -4,6 +4,12 @@ All notable changes to the "vxcode-theme-by-renato3x" extension will be document
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.1.1] - 2025-04-06
+
+### Changed
+
+- Added syntax highlight for scape characters
+
 ## [2.1.0] - 2025-03-16
 
 ### Added
